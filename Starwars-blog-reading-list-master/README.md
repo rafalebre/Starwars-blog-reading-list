@@ -12,7 +12,7 @@
 1. Install the packages:
 ```
 $ npm install
-```
+```-
 2. Create a .env file:
 ```
 $ cp .env.example .env
